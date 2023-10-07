@@ -11,7 +11,7 @@ fetch(urlEmbed)
 	});
 
 // __________________________JSON fetch music.json__________________________
-const url = 'http://localhost:3000/songs';
+const url = 'https://assignment3-arizidan-msib.vercel.app/songs';
 
 // fetch(url, { mode: 'cors' })
 //   .then(response => response.json())
